@@ -20,5 +20,4 @@ status|Inteiro|Campo que armazena se o carro está alugado ou não
 numero_cliente|Inteiro|Número do cliente que está com o carro. 
 data_locacao|Cadeia de caracteres|Data em que o carro foi alugado
 data_devolucao|Cadeira de caracteres|Data em que o carro foi devolvido
-valor_diaria|Real|Valor de aluguel do carro por dia
-
+ valor_diaria|Real|Valor de aluguel do carro por dia
