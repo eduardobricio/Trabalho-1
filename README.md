@@ -12,7 +12,6 @@ Exemplo: Sistema de uma locadora de carros.
 |Nome do campo|tipo|Descrição|
 |-------------|----|---------|
 nome_do_carro|Cadeia de caracteres|Nome do carro
-fabricante|Cadeia de caracteres|Nome do fabricante
 modelo|Cadeia de caracteres|Modelo do carro
 cpf|inteiro|cpf do cliente
 Valor_carro|Real|Valor do carro
