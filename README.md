@@ -15,7 +15,7 @@ nome_do_carro|Cadeia de caracteres|Nome do carro
 fabricante|Cadeia de caracteres|Nome do fabricante
 modelo|Cadeia de caracteres|Modelo do carro
 cpf|inteiro|cpf do cliente
-ano_fabricacao|Inteiro|Ano de fabricação do carro
+Valor_carro|Real|Valor do carro
 status|Inteiro|Campo que armazena se o carro está alugado ou não
 numero_cliente|Inteiro|Número do cliente que está com o carro. 
 data_locacao|Inteiro|Data em que o carro foi alugado
