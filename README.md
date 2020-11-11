@@ -21,6 +21,6 @@ numero_cliente|Inteiro|Número do cliente que está com o carro.
 data_locacao|Cadeia de caracteres|Data em que o carro foi alugado
 data_devolucao|Cadeira de caracteres|Data em que o carro foi devolvido
 valor_diaria|Real|Valor de aluguel do carro por dia
-nome|Cadeia de caracteres|Nome da Pessoa
+nome_cliente|Cadeia de caracteres|Nome da Pessoa
 seguro|Real|valor para fazer o seguro do carro em caso de acidente
 email|cadeia de caracteres|email do cliente
