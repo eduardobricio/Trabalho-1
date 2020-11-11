@@ -18,8 +18,8 @@ cpf|inteiro|cpf do cliente
 ano_fabricacao|Inteiro|Ano de fabricação do carro
 status|Inteiro|Campo que armazena se o carro está alugado ou não
 numero_cliente|Inteiro|Número do cliente que está com o carro. 
-data_locacao|Cadeia de caracteres|Data em que o carro foi alugado
-data_devolucao|Cadeira de caracteres|Data em que o carro foi devolvido
+data_locacao|Inteiro|Data em que o carro foi alugado
+data_devolucao|Inteiro|Data em que o carro foi devolvido
 valor_diaria|Real|Valor de aluguel do carro por dia
 nome_cliente|Cadeia de caracteres|Nome da Pessoa
 seguro|Real|valor para fazer o seguro do carro em caso de acidente
