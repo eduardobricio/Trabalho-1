@@ -17,8 +17,7 @@ cpf|inteiro|cpf do cliente
 Valor_carro|Real|Valor do carro
 status|Inteiro|Campo que armazena se o carro está alugado ou não
 telefone_cliente|Inteiro|Número do cliente que está com o carro. 
-data_locacao|Inteiro|Data em que o carro foi alugado
-data_devolucao|Inteiro|Data em que o carro foi devolvido
+diarias|inteiro|Quantiddade de dias que o cliente ficou com o carro.
 valor_diaria|Real|Valor de aluguel do carro por dia
 nome_cliente|Cadeia de caracteres|Nome da Pessoa
 seguro|Real|valor para fazer o seguro do carro em caso de acidente
